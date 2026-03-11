@@ -12,7 +12,7 @@
 - 🌱 **Learning:** Advanced Spring Boot patterns and System Design.
 - 💬 **Ask me about:** Java, React, Node.js, and Database Optimization.
 - 🎯 **Goal:** To build impactful open-source projects.
-- 📫 **Reach me at:** <a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/shivam-pandey-480b9535b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam7894" height="30" width="40" /></a>
+- 📫 **Reach me at:** <a href="[[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/shivam-pandey-480b9535b/)](https://www.linkedin.com/in/shivam-pandey-480b9535b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam7894" height="30" width="40" /></a>
 <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="shivam7894" height="30" width="40" /></a>
 
 ---
