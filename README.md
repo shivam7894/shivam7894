@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Shivam Pandey
-### 🚀 Full Stack Developer | Java & JavaScript Enthusiast
+# 👋 Hi, I'm Shivam Pandey  
+### 🚀 Full Stack Developer | Java & JavaScript Enthusiast  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivam7894&label=Profile%20views&color=0e75b6&style=flat" alt="shivam7894" />
@@ -7,13 +7,18 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 **Currently working on:** Building scalable Web Applications & Microservices.
-- 🌱 **Learning:** Advanced Spring Boot patterns and System Design.
-- 💬 **Ask me about:** Java, React, Node.js, and Database Optimization.
-- 🎯 **Goal:** To build impactful open-source projects.
-- 📫 **Connect with me:** <a href="https://www.linkedin.com/in/shivam-pandey-480b9535b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivam Pandey LinkedIn" height="30" width="40" /></a>
-<a href="mailto:shivampandey55280@gmail.com" target="blank"><img align="center" alt="Shivam Pandey Email" height="30" width="40" /></a>
+## 👨‍💻 About Me  
+- 🔭 **Currently working on:** Scalable Web Applications & Microservices  
+- 🌱 **Learning:** Advanced Spring Boot patterns & System Design  
+- 💬 **Ask me about:** Java, React, Node.js, Database Optimization  
+- 🎯 **Goal:** Building impactful open-source projects  
+- 📫 **Connect with me:**  
+  <a href="https://www.linkedin.com/in/shivam-pandey-480b9535b/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivam Pandey LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:shivampandey55280@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Shivam Pandey Email" height="30" width="40" />
+  </a>
 
 ---
 
