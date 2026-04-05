@@ -14,7 +14,7 @@
 - 🎯 **Goal:** Building impactful open-source projects  
 - 📫 **Connect with me:**  
   <a href="https://www.linkedin.com/in/shivam-pandey-480b9535b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivam Pandey LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-pandey-480b9535b" height="30" width="40" />
   </a>
   <a href="mailto:shivampandey55280@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Shivam Pandey Email" height="30" width="40" />
