@@ -86,14 +86,20 @@ I'm a **Computer Science Engineering student and Full Stack Developer** passiona
 
 ---
 
-## 🏆 Certifications & Learning
-
-* 🎓 Spring Boot Web Development with Java
-* 🌱 Spring Framework Specialization
-* 💻 Full-Stack React with Spring Boot
-* 🧩 Linked Lists – CodeChef
-* ☁️ Exploring Azure, AWS & Google Cloud
-* 🍃 Exploring MongoDB & Cloud Technologies
+## 🏆 Certifications
+☕ Java & Spring
+🎓 Spring Boot Web Development with Java Specialization
+🌱 Spring Framework Specialization
+⚛️ Full-Stack React with Spring Boot Specialization
+💻 Programming
+🧩 Linked Lists – CodeChef
+☁️ Cloud & Technology
+🔶 Oracle Certification / Oracle Badge
+☁️ Microsoft Azure – Learning & Training
+☁️ AWS – Cloud Learning
+☁️ Google Cloud – Cloud Learning
+🍃 MongoDB – Learning & Certification Preparation
+📊 DataCamp – Statement of Accomplishment
 
 ---
 
@@ -104,30 +110,6 @@ I'm a **Computer Science Engineering student and Full Stack Developer** passiona
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam7894&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam7894&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam7894&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam7894&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
