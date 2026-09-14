@@ -11,18 +11,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student and Full Stack Developer** passionate about building scalable, secure, and real-world web applications.
+I'm a **Computer Science Engineering student and Full Stack Developer** passionate about building modern, scalable, and real-world applications.
 
-I primarily work with **Java, Spring Boot, React, JavaScript, REST APIs, databases, and microservices**, and I enjoy turning ideas into production-ready applications.
-
-* 🔭 **Currently working on:** Scalable Web Applications & Microservices
-* 🌱 **Currently learning:** Advanced Spring Boot, Microservices & System Design
-* 💻 **Primary Stack:** Java • Spring Boot • React • JavaScript
-* 🔐 **Interested in:** REST APIs, JWT Authentication, Microservices & Cloud
-* 🗄️ **Databases:** MySQL • PostgreSQL • MongoDB • H2
-* 🐳 **DevOps:** Git • GitHub • Docker
-* 🎯 **Goal:** Become a strong Software Engineer and build impactful products
-* 🤝 **Open to:** Internships, collaborations, open-source projects & exciting development opportunities
+* 🔭 Currently working on **Full Stack Applications & Microservices**
+* 🌱 Learning **Spring Boot, Microservices & System Design**
+* 💻 Primary Stack: **Java • Spring Boot • React • JavaScript**
+* 🗄️ Databases: **MySQL • PostgreSQL • MongoDB • H2**
+* 🐳 Tools: **Git • GitHub • Docker • Postman**
+* 🎯 Goal: **Become a skilled Software Engineer**
+* 🤝 Open to **Internships, Collaborations & Open Source**
 
 ---
 
@@ -30,247 +27,87 @@ I primarily work with **Java, Spring Boot, React, JavaScript, REST APIs, databas
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp,html,css" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Frameworks & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,vite" />
 </p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman,vscode,idea" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### ✈️ MakeMyTrip
+
+**Full Stack Travel & Flight Booking Platform**
+
+`Java` `Spring Boot` `React` `JavaScript` `REST API`
+
+---
+
+### 🍔 QuickBite
+
+**Microservices-Based Food Delivery Platform**
+
+`Java` `Spring Boot` `Microservices` `React` `JWT` `Docker`
+
+---
+
+### 🎓 Student Learning Platform
+
+**Modern Platform for Students to Learn, Practice & Manage Educational Content**
+
+`Java` `Spring Boot` `React` `JavaScript` `Database`
+
+---
+
+## 🔐 Backend & Development
 
 * Spring Boot
-* Spring MVC
-* Spring Data JPA
 * Spring Security
 * JWT Authentication
-* RESTful APIs
-* Microservices Architecture
+* REST APIs
+* Microservices
 * Eureka Service Discovery
 * API Gateway
-* Inter-Service Communication
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js" />
-</p>
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Responsive Web Design
-* REST API Integration
-* Vite
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* H2 Database
 * JPA / Hibernate
-* Database Design & Optimization
-
-### ☁️ Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux" />
-</p>
-
-* Git & GitHub
-* Docker
-* Docker Compose
-* Postman
-* IntelliJ IDEA
-* VS Code
-* Linux
-* Maven
-
----
-
-## 🚀 Featured Projects
-
-### ✈️ MakeMyTrip – Real-Time Travel Platform
-
-A full-stack travel booking platform inspired by modern travel applications.
-
-**Key Features:**
-
-* ✈️ Flight Search & Booking
-* 📍 Live Flight Status
-* 💺 Seat Selection
-* 💰 Dynamic Pricing
-* ❌ Cancellation & Refund Tracking
-* ⭐ Reviews & Ratings
-* 🤖 Personalized Recommendations
-* 🔐 OTP / Authentication
-* 📱 Responsive UI
-* 🌐 REST API based architecture
-
-**Tech:** `Java` `Spring Boot` `React` `JavaScript` `H2` `REST API`
-
----
-
-### 🍔 QuickBite – Food Delivery Microservices
-
-A microservices-based food delivery platform designed to simulate a real-world distributed system.
-
-**Architecture:**
-
-```text
-React Frontend
-      ↓
-API Gateway
-      ↓
-Eureka Service Discovery
-      ↓
- ┌──────────────┬──────────────┬──────────────┐
- │ Auth Service │ Restaurant   │ Order Service│
- │              │ Service      │              │
- └──────────────┴──────────────┴──────────────┘
-                       ↓
-                 Payment Service
-```
-
-**Features:**
-
-* 🔐 JWT Authentication
-* 🔑 OTP / MFA
-* 🍽️ Restaurant & Menu Management
-* 🛒 Order Management
-* 💳 Simulated UPI Payment
-* 📍 Delivery Tracking
-* ⚡ Service Discovery
-* 🔄 Inter-Service Communication
-* 🐳 Dockerized Services
-
-**Tech:** `Java` `Spring Boot` `Microservices` `React` `JWT` `H2` `Docker` `Eureka`
-
----
-
-## 🧩 Backend Architecture Skills
-
-```text
-Client
-  │
-  ▼
-React / Frontend
-  │
-  ▼
-API Gateway
-  │
-  ▼
-Authentication & Authorization
-  │
-  ├── User Service
-  ├── Restaurant Service
-  ├── Order Service
-  ├── Payment Service
-  └── Notification Service
-          │
-          ▼
-      Databases
-```
-
-I enjoy designing applications with:
-
-* 🔹 Layered Architecture
-* 🔹 MVC Architecture
-* 🔹 Microservices
-* 🔹 RESTful APIs
-* 🔹 JWT Security
-* 🔹 Service Discovery
-* 🔹 API Gateway
-* 🔹 Exception Handling
-* 🔹 Validation
-* 🔹 Database Relationships
-
----
-
-## 🔐 Security & Authentication
-
-Currently exploring secure backend development using:
-
-* 🔑 JWT Authentication
-* 🛡️ Spring Security
-* 🔐 Role-Based Authorization
-* 📩 OTP Authentication
-* 🔒 MFA / TOTP
-* 🔏 Password Encryption
-* 🌐 CORS Configuration
-* 🧱 Secure REST APIs
-
----
-
-## 📚 Currently Learning
-
-```text
-Advanced Spring Boot
-        ↓
-Microservices Architecture
-        ↓
-System Design
-        ↓
-Cloud Computing
-        ↓
-DevOps & Docker
-        ↓
-Production-Ready Applications
-```
-
-I'm continuously improving my understanding of:
-
-* System Design
-* Distributed Systems
-* Cloud Architecture
-* Database Optimization
-* API Design
-* Scalable Backend Systems
-* Software Engineering Best Practices
+* Database Management
+* Docker & Docker Compose
 
 ---
 
 ## 🏆 Certifications & Learning
 
-### 🎓 Spring & Full Stack
-
-* Spring Boot Web Development with Java
-* Spring Framework Specialization
-* Full-Stack React with Spring Boot Specialization
-
-### 💻 Programming
-
-* Linked Lists – CodeChef
-
-### ☁️ Cloud & Technology
-
-* Exploring Microsoft Azure
-* Exploring AWS
-* Exploring Google Cloud
-* Exploring Oracle Technologies
-* Exploring MongoDB
+* 🎓 Spring Boot Web Development with Java
+* 🌱 Spring Framework Specialization
+* 💻 Full-Stack React with Spring Boot
+* 🧩 Linked Lists – CodeChef
+* ☁️ Exploring Azure, AWS & Google Cloud
+* 🍃 Exploring MongoDB & Cloud Technologies
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology – Computer Science & Engineering**
-
+**B.Tech – Computer Science & Engineering**
 📍 KL University, Andhra Pradesh, India
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam7894&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam7894&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam7894&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -292,24 +129,9 @@ I'm continuously improving my understanding of:
 
 ---
 
-## 💡 Developer Mindset
+## 🎯 Current Focus
 
-> **Build. Break. Learn. Improve. Repeat.**
-
-I believe the best way to learn software development is by **building real-world applications**, understanding how systems work internally, and continuously improving the quality of the code.
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build production-ready full-stack applications
-* ☁️ Strengthen Cloud & DevOps skills
-* 🧩 Master Microservices Architecture
-* 🏗️ Improve System Design knowledge
-* 🔐 Build secure and scalable APIs
-* 🌎 Contribute to Open Source
-* 💼 Gain industry-level software engineering experience
-* 📚 Keep learning and experimenting with new technologies
+**Full Stack Development • Spring Boot • Microservices • System Design • Cloud • DevOps**
 
 ---
 
@@ -329,14 +151,10 @@ I believe the best way to learn software development is by **building real-world
 
 ---
 
-## ⚡ Fun Fact
+### ⚡ Fun Fact
 
-> 💬 **"I spend more time naming a variable than writing the actual logic."** 😆
-
----
-
-### ⭐ If you like my work, consider giving my repositories a star!
+> **"Build. Learn. Improve. Repeat."** 🚀
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
