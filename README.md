@@ -53,19 +53,15 @@ I'm a **Computer Science Engineering student and Full Stack Developer** passiona
 
 `Java` `Spring Boot` `React` `JavaScript` `REST API`
 
----
-
 ### 🍔 QuickBite
 
 **Microservices-Based Food Delivery Platform**
 
 `Java` `Spring Boot` `Microservices` `React` `JWT` `Docker`
 
----
-
 ### 🎓 Student Learning Platform
 
-**Modern Platform for Students to Learn, Practice & Manage Educational Content**
+**Platform for Students to Learn, Practice & Manage Educational Content**
 
 `Java` `Spring Boot` `React` `JavaScript` `Database`
 
@@ -87,19 +83,25 @@ I'm a **Computer Science Engineering student and Full Stack Developer** passiona
 ---
 
 ## 🏆 Certifications
-☕ Java & Spring
-🎓 Spring Boot Web Development with Java Specialization
-🌱 Spring Framework Specialization
-⚛️ Full-Stack React with Spring Boot Specialization
-💻 Programming
-🧩 Linked Lists – CodeChef
-☁️ Cloud & Technology
-🔶 Oracle Certification / Oracle Badge
-☁️ Microsoft Azure – Learning & Training
-☁️ AWS – Cloud Learning
-☁️ Google Cloud – Cloud Learning
-🍃 MongoDB – Learning & Certification Preparation
-📊 DataCamp – Statement of Accomplishment
+
+### ☕ Java & Spring
+
+* 🎓 **Spring Boot Web Development with Java Specialization**
+* 🌱 **Spring Framework Specialization**
+* ⚛️ **Full-Stack React with Spring Boot Specialization**
+
+### 💻 Programming
+
+* 🧩 **Linked Lists – CodeChef**
+
+### ☁️ Cloud & Technology
+
+* 🔶 **Oracle Certification / Oracle Badge**
+* ☁️ **Microsoft Azure – Learning & Training**
+* ☁️ **AWS – Cloud Learning**
+* ☁️ **Google Cloud – Cloud Learning**
+* 🍃 **MongoDB – Learning & Certification Preparation**
+* 📊 **DataCamp – Statement of Accomplishment**
 
 ---
 
